@@ -3,13 +3,10 @@
   "version": "1.0.3",
   "description": "美团联盟",
   "main": "dist/index.js",
-  "author": "zooPanda",
+  "author": "zooPanda<i@czzz.io>",
   "repository": {
     "type": "git",
     "url": "git://github.com/zooPanda/meituan.git"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
   },
   "keywords": [
     "meituan",
