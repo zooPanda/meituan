@@ -15,7 +15,7 @@
     "返利"
   ],
   "homepage": "https://github.com/zooPanda/meituan/blob/main/README.md",
-  "license": "MIT",
+  "license": "GUN GPLv2",
   "dependencies": {
     "axios": "^0.25.0"
   },
